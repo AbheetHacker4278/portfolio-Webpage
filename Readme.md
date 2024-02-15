@@ -28,6 +28,19 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
     </a>
+    <a href="https://images.velog.io/images/rockjeon/post/57921ea5-c5fe-48a5-9a1a-2019c3904f08/node123123.png" target="_blank" rel="noreferrer">
+        <img src="csslogo.png" alt="c++" width="40" height="40">
+    </a>
+    <a href="https://images.velog.io/images/rockjeon/post/57921ea5-c5fe-48a5-9a1a-2019c3904f08/node123123.png" target="_blank" rel="noreferrer">
+        <img src="htmllogo.png" alt="c++" width="40" height="40">
+    </a>
+    <a href="https://images.velog.io/images/rockjeon/post/57921ea5-c5fe-48a5-9a1a-2019c3904f08/node123123.png" target="_blank" rel="noreferrer">
+        <img src="javaslogo.png" alt="c++" width="40" height="40">
+    </a>
+    <h2>Platforms😎</h2><br>
+    <a href="https://images.velog.io/images/rockjeon/post/57921ea5-c5fe-48a5-9a1a-2019c3904f08/node123123.png" target="_blank" rel="noreferrer">
+        <img src="leetcodelogo.png" alt="c++" width="40" height="40">
+    </a>
 </p>
 
 <p>
