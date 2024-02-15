@@ -38,9 +38,13 @@
     <a href="https://images.velog.io/images/rockjeon/post/57921ea5-c5fe-48a5-9a1a-2019c3904f08/node123123.png" target="_blank" rel="noreferrer">
         <img src="leetcodelogo.png" alt="c++" width="40" height="40">
     </a>
-    <h2>DataBase</h2>
+    <h2>DataBase😎</h2>
     <a href="https://icons8.com/icon/o6OvAxG0nzTH/mongo-db" target="_blank" rel="noreferrer">
         <img src="icons8-mongo-db-64.png" alt="mongo-db" width="40" height="40">
+    </a>
+    <h2>Version Control😎</h2>
+    <a href="https://icons8.com/icon/o6OvAxG0nzTH/mongo-db" target="_blank" rel="noreferrer">
+        <img src="gitlogo.png" alt="mongo-db" width="40" height="40">
     </a>
 </p>
 
