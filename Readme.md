@@ -22,6 +22,9 @@
     <a href="https://images.velog.io/images/rockjeon/post/57921ea5-c5fe-48a5-9a1a-2019c3904f08/node123123.png" target="_blank" rel="noreferrer">
         <img src="cpplogo.png" alt="c++" width="40" height="40">
     </a>
+    <a href="https://images.velog.io/images/rockjeon/post/57921ea5-c5fe-48a5-9a1a-2019c3904f08/node123123.png" target="_blank" rel="noreferrer">
+        <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="c++" width="40" height="40">
+    </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
     </a>
