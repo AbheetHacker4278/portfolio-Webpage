@@ -9,7 +9,7 @@ body {
     perspective: 1000px;
   }
   
-  .container {
+  .conta {
     position: relative;
     display: grid;
     grid-template-rows: repeat(20, 5vh);
